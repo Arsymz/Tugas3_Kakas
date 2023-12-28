@@ -5,6 +5,14 @@ body {
     padding: 0;
 }
 
+header {
+    background-color: #333;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
 .container {
     max-width: 600px;
     margin: 50px auto;
