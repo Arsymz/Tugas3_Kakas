@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: #333;
-    background-color: black;
+    background-color: gray;
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -41,7 +41,7 @@ p {
 }
 
 footer {
-    background-color: black;
+    background-color: gray;
     color: #fff;
     text-align: center;
     padding: 2px;
